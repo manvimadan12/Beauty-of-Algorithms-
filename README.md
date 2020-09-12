@@ -1,2 +1,6 @@
 # Beauty-of-Algorithms-
-This repository contains the implementation of powerful algorithms in C++/C. These implements should be favoured when performance is a key metric.
+This repository contains my revision notes and codes for algorithm design and analysis.
+
+
+
+
