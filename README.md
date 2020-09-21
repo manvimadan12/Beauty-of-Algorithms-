@@ -5,7 +5,8 @@ This repository contains my revision notes and codes for algorithm design and an
 
 ### Psuedocode
 
-### Implementation
+### Implementation 
+[Link](https://github.com/manvimadan12/Beauty-of-Algorithms-/blob/master/Insertion_sort.cpp)
 
 ### Output
 
